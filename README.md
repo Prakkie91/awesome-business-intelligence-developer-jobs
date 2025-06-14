@@ -73,6 +73,10 @@ Browse a wide range of remote Business IntelligenceDeveloper positions available
 
 * **[Business Intelligence and Data Analytics Manager](https://job-boards.greenhouse.io/clickhouse/jobs/5473035004)** — _n/a_ _(posted 2025-03-30)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/di7w3wuft5079bxpits6.webp" width="24" height="24" alt="Clipboard Health logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Clipboard Health](https://jobo.world/company/Clipboard-Health)
+
+* **[Business Intelligence Manager](https://job-boards.greenhouse.io/clipboardhealth/jobs/5564213004)** — ¤90,000 – ¤120,000 USD _(posted 2025-06-13)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/xauolcu0ycnihp0pf12l.webp" width="24" height="24" alt="Coder logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Coder](https://jobo.world/company/Coder)
 
 * **[Product Operations Engineer](https://jobs.ashbyhq.com/coder/a21249ca-f8c1-4123-a68f-23e309bc950e)** — ¤113,000 – ¤194,000 USD _(posted 2025-05-07)_
@@ -87,7 +91,6 @@ Browse a wide range of remote Business IntelligenceDeveloper positions available
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/hzuavimik16xkwurk8st.webp" width="24" height="24" alt="Cribl logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Cribl](https://jobo.world/company/Cribl)
 
-* **[Sales Engineer (DoD &amp; Intel)](https://job-boards.greenhouse.io/cribl/jobs/5499993004)** — _n/a_ _(posted 2025-06-12)_
 * **[Sales Engineer](https://job-boards.greenhouse.io/cribl/jobs/5499020004)** — ¤110,000 – ¤175,000 USD _(posted 2025-06-10)_
 * **[Staff Professional Services Consultant](https://job-boards.greenhouse.io/cribl/jobs/5556224004)** — _n/a_ _(posted 2025-06-05)_
 * **[Software Engineer, Cribl AI](https://job-boards.greenhouse.io/cribl/jobs/5543303004)** — ¤200,000 – ¤275,000 USD _(posted 2025-05-17)_
@@ -96,7 +99,6 @@ Browse a wide range of remote Business IntelligenceDeveloper positions available
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/pbekjf3dglwnuawekmds.webp" width="24" height="24" alt="Dataiku logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Dataiku](https://jobo.world/company/Dataiku)
 
 * **[Sr Data Scientist](https://job-boards.greenhouse.io/dataiku/jobs/5555221004)** — _n/a_ _(posted 2025-06-04)_
-* **[Associate Engagement Manager](https://job-boards.greenhouse.io/dataiku/jobs/5530258004)** — _n/a_ _(posted 2025-05-02)_
 * **[Enterprise Account Executive](https://job-boards.greenhouse.io/dataiku/jobs/5489856004)** — _n/a_ _(posted 2025-04-01)_
 * **[Enterprise Account Executive, Central](https://job-boards.greenhouse.io/dataiku/jobs/4490395004)** — _n/a_ _(posted 2025-03-30)_
 
@@ -186,6 +188,7 @@ Browse a wide range of remote Business IntelligenceDeveloper positions available
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/e0p2lkgyrsetxsdrpcp0.webp" width="24" height="24" alt="Interwell Health logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Interwell Health](https://jobo.world/company/Interwell-Health)
 
 * **[Data Engineer](https://job-boards.greenhouse.io/interwellhealth/jobs/4749959008)** — _n/a_ _(posted 2025-06-07)_
+* **[Senior Healthcare Data Analyst](https://job-boards.greenhouse.io/interwellhealth/jobs/4694555008)** — _n/a_ _(posted 2025-05-22)_
 * **[Manager, Data Engineering](https://boards.greenhouse.io/interwellhealth/jobs/4614534008)** — _n/a_ _(posted 2025-04-05)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ratwa3kr7uy5rlny0zky.webp" width="24" height="24" alt="Jobber logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Jobber](https://jobo.world/company/Jobber)
@@ -202,6 +205,10 @@ Browse a wide range of remote Business IntelligenceDeveloper positions available
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/bjxntapcwce90erhhj8b.webp" width="24" height="24" alt="Machinify logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Machinify](https://jobo.world/company/Machinify)
 
 * **[Analytics Engineer](https://jobs.ashbyhq.com/machinify/ee058a5f-d05f-4baf-92d6-3353d74ecc0e)** — ¤180,000 – ¤200,000 USD _(posted 2025-03-12)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/iuhpcceshtzjaftxt8fh.webp" width="24" height="24" alt="Manifold Bio logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Manifold Bio](https://jobo.world/company/ManifoldBio)
+
+* **[Lead, Implementation Engineering](https://job-boards.greenhouse.io/manifoldai/jobs/6608240003)** — _n/a_ _(posted 2025-06-13)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/srry4v99yg18r3o0owsd.webp" width="24" height="24" alt="Maven Clinic logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Maven Clinic](https://jobo.world/company/Maven-Clinic)
 
@@ -221,10 +228,6 @@ Browse a wide range of remote Business IntelligenceDeveloper positions available
 
 * **[Head of Business Intelligence](https://boards.greenhouse.io/themotleyfool/jobs/4710046007)** — _n/a_ _(posted 2025-05-02)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/od7fwijhxhgxvilcetzp.webp" width="24" height="24" alt="Northwestern Mutual logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Northwestern Mutual](https://jobo.world/company/Northwestern-Mutual)
-
-* **[Data Engineer Sr](https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Remote-Wisconsin/Data-Engineer-Sr_JR-43367)** — _n/a_ _(posted 2025-06-06)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/jqluxvjjehdk8lnz0lrg.webp" width="24" height="24" alt="Platform Science logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Platform Science](https://jobo.world/company/Platform-Science)
 
 * **[Sr. Data Analyst](https://job-boards.greenhouse.io/platformscience/jobs/6315425003)** — _n/a_ _(posted 2025-04-15)_
@@ -237,6 +240,10 @@ Browse a wide range of remote Business IntelligenceDeveloper positions available
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/medp37fwznxooodxhybc.webp" width="24" height="24" alt="Privy logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Privy](https://jobo.world/company/Privy)
 
 * **[Developer Support Engineer ](https://jobs.ashbyhq.com/privy/ae753507-3c0f-40f5-9779-0d6035dee941)** — _n/a_ _(posted 2025-04-29)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/bmyehdxrdv6eiphmivcv.webp" width="24" height="24" alt="Procore Technologies logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Procore Technologies](https://jobo.world/company/Procore-Technologies)
+
+* **[Analytics Implementation Specialist](https://jobs.smartrecruiters.com/ProcoreTechnologies/744000064838334-analytics-implementation-specialist?oga=true)** — _n/a_ _(posted 2025-06-12)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/oupqrzklqnqeu7s2rlp7.webp" width="24" height="24" alt="Rad AI logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Rad AI](https://jobo.world/company/Rad-AI)
 
@@ -276,10 +283,6 @@ Browse a wide range of remote Business IntelligenceDeveloper positions available
 
 * **[Sr. Data Engineer II](https://jobs.lever.co/trueml/0e2a9f91-3557-46c9-afb1-8feb8bca4231)** — _n/a_ _(posted 2025-05-18)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/igifoqrbvq9leputdp4b.webp" width="24" height="24" alt="Tubi logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Tubi](https://jobo.world/company/Tubi)
-
-* **[Data Engineer](https://job-boards.greenhouse.io/tubitv/jobs/6843451)** — ¤121,000 – ¤160,000 USD _(posted 2025-04-29)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/xzrlxeuu2sqq1naklsxy.webp" width="24" height="24" alt="Visier Solutions logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Visier Solutions](https://jobo.world/company/Visier)
 
 * **[Account Executive, Embedded Analytics](https://job-boards.greenhouse.io/visiersolutionsinc/jobs/4449055006)** — ¤60,000 – ¤120,000 USD _(posted 2025-05-15)_
@@ -293,4 +296,4 @@ Browse a wide range of remote Business IntelligenceDeveloper positions available
 * **[Solutions Analyst](https://job-boards.greenhouse.io/yipitdata/jobs/6862273)** — _n/a_ _(posted 2025-05-06)_
 
 ---
-_Updated automatically — 2025-06-13_
+_Updated automatically — 2025-06-14_

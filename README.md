@@ -296,4 +296,4 @@ Browse a wide range of remote Business IntelligenceDeveloper positions available
 * **[Solutions Analyst](https://job-boards.greenhouse.io/yipitdata/jobs/6862273)** — _n/a_ _(posted 2025-05-06)_
 
 ---
-_Updated automatically — 2025-06-17_
+_Updated automatically — 2025-06-18_

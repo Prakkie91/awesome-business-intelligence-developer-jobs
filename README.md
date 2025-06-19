@@ -18,6 +18,10 @@ Browse a wide range of remote Business IntelligenceDeveloper positions available
 
 * **[Sr Business Relationship Management (BRM) Analyst](https://avav.wd1.myworkdayjobs.com/avav/job/Remote---California-Southern/Sr-Business-Relationship-Management--BRM--Analyst_5360)** — _n/a_ _(posted 2025-03-03)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/jxzk52qwwc00ysw35zd8.webp" width="24" height="24" alt="Airtable logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Airtable](https://jobo.world/company/Airtable)
+
+* **[Developer Support Engineer](https://job-boards.greenhouse.io/airtable/jobs/7940694002)** — _n/a_ _(posted 2025-06-18)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/zzomtjg1qh8bny0kgxwq.webp" width="24" height="24" alt="Alma logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Alma](https://jobo.world/company/Alma)
 
 * **[Senior Analytics Engineer II](https://job-boards.greenhouse.io/alma/jobs/8030853002)** — _n/a_ _(posted 2025-06-10)_
@@ -43,10 +47,6 @@ Browse a wide range of remote Business IntelligenceDeveloper positions available
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/gs61rxdb5anhhiq0hy2b.webp" width="24" height="24" alt="AuditBoard logo" style="vertical-align:middle"/>&nbsp;&nbsp;[AuditBoard](https://jobo.world/company/AuditBoard)
 
 * **[Competitive Intelligence Manager (Remote)](https://jobs.ashbyhq.com/auditboard/ecadcd66-47ab-422c-a837-22a83944c5d3)** — ¤128,000 – ¤192,000 USD _(posted 2025-06-04)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/pqfdfrjmqmxbudyqcngn.webp" width="24" height="24" alt="Baxter International logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Baxter International](https://jobo.world/company/Baxter-International)
-
-* **[Senior Data Scientist - AI Modeling](https://baxter.wd1.myworkdayjobs.com/baxter/job/United-States-of-America---Remote/Senior-Data-Scientist_JR-162263-1)** — _n/a_ _(posted 2025-03-19)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ex51fd3wt4w9cnurc1wy.webp" width="24" height="24" alt="Biorender logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Biorender](https://jobo.world/company/Biorender)
 
@@ -77,16 +77,16 @@ Browse a wide range of remote Business IntelligenceDeveloper positions available
 
 * **[Lead Business Intelligence Analyst, Client and Program Impact](https://jobs.lever.co/color/345e4f7e-34dd-43f7-a4ac-71d8c318886d)** — _n/a_ _(posted 2025-04-11)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/bpokn58memf7kzc2c8sh.webp" width="24" height="24" alt="Conception logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Conception](https://jobo.world/company/Conception)
-
-* **[Computational Biologist](https://jobs.ashbyhq.com/conception/9e12f074-80e6-434e-8b0c-eb115aca3d13)** — _n/a_ _(posted 2025-05-20)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/hzuavimik16xkwurk8st.webp" width="24" height="24" alt="Cribl logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Cribl](https://jobo.world/company/Cribl)
 
 * **[Sales Engineer](https://job-boards.greenhouse.io/cribl/jobs/5499020004)** — ¤110,000 – ¤175,000 USD _(posted 2025-06-10)_
 * **[Staff Professional Services Consultant](https://job-boards.greenhouse.io/cribl/jobs/5556224004)** — _n/a_ _(posted 2025-06-05)_
 * **[Software Engineer, Cribl AI](https://job-boards.greenhouse.io/cribl/jobs/5543303004)** — ¤200,000 – ¤275,000 USD _(posted 2025-05-17)_
 * **[Data Analytics Manager](https://job-boards.greenhouse.io/cribl/jobs/5534569004)** — _n/a_ _(posted 2025-05-07)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/sqbkzlv06ri5up7ea5sb.webp" width="24" height="24" alt="CSC Generation logo" style="vertical-align:middle"/>&nbsp;&nbsp;[CSC Generation](https://jobo.world/company/CSC-Generation)
+
+* **[Business Intelligence Manager – AI &amp; Automation](https://jobs.lever.co/cscgeneration-2/b9666082-d7e9-4397-9caa-ea0c600ef302)** — _n/a_ _(posted 2025-06-16)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/pbekjf3dglwnuawekmds.webp" width="24" height="24" alt="Dataiku logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Dataiku](https://jobo.world/company/Dataiku)
 
@@ -96,7 +96,6 @@ Browse a wide range of remote Business IntelligenceDeveloper positions available
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/rlloutuggdwvprolzosi.webp" width="24" height="24" alt="Dataminr logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Dataminr](https://jobo.world/company/Dataminr)
 
 * **[Staff Software Engineer, Backend](https://dataminr.wd12.myworkdayjobs.com/dataminr/job/US-Remote/Staff-Software-Engineer--Backend_JR1773-1)** — _n/a_ _(posted 2025-05-22)_
-* **[Software Engineer III, Full Stack (Human AI Innovation Team)](https://dataminr.wd12.myworkdayjobs.com/dataminr/job/US-Remote/Software-Engineer-III--Full-Stack--Human-AI-Innovation-Team-_JR1700)** — _n/a_ _(posted 2025-02-26)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/y1tseabvwxmu8boiolha.webp" width="24" height="24" alt="dbt Labs logo" style="vertical-align:middle"/>&nbsp;&nbsp;[dbt Labs](https://jobo.world/company/dbtLabs)
 
@@ -180,20 +179,20 @@ Browse a wide range of remote Business IntelligenceDeveloper positions available
 
 * **[Senior Business Intelligence Engineer](https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Remote-Nationwide/Senior-Business-Intelligence-Engineer_R-379132)** — _n/a_ _(posted 2025-06-13)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ojqrzbjpfmbgsm9qtfzl.webp" width="24" height="24" alt="IDMWORKS logo" style="vertical-align:middle"/>&nbsp;&nbsp;[IDMWORKS](https://jobo.world/company/IDMWORKS)
+
+* **[Business Analyst](https://jobs.lever.co/idmworks/88042073-f9b9-4b2e-a22b-4da52b3533e5)** — _n/a_ _(posted 2025-06-17)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/e0p2lkgyrsetxsdrpcp0.webp" width="24" height="24" alt="Interwell Health logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Interwell Health](https://jobo.world/company/Interwell-Health)
 
+* **[Senior Healthcare Data Analyst](https://job-boards.greenhouse.io/interwellhealth/jobs/4763288008)** — _n/a_ _(posted 2025-06-18)_
 * **[Data Engineer](https://job-boards.greenhouse.io/interwellhealth/jobs/4749959008)** — _n/a_ _(posted 2025-06-07)_
-* **[Senior Healthcare Data Analyst](https://job-boards.greenhouse.io/interwellhealth/jobs/4694555008)** — _n/a_ _(posted 2025-05-22)_
 * **[Manager, Data Engineering](https://boards.greenhouse.io/interwellhealth/jobs/4614534008)** — _n/a_ _(posted 2025-04-05)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/artohvfq2jh2orgkmv6d.webp" width="24" height="24" alt="Jasper logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Jasper](https://jobo.world/company/Jasper)
-
-* **[Business Operations Lead](https://jobs.ashbyhq.com%2Fjasper%2520ai%2F86d9c29c-bdd8-4c8d-bd67-d094e01aa15f)** — _n/a_ _(posted 2025-06-14)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/lu1fnjgrjwoa651dm7l9.webp" width="24" height="24" alt="Jerry logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Jerry](https://jobo.world/company/Jerry)
 
-* **[Associate, Business Operations](https://jobs.ashbyhq.com/jerry/214c3548-ea66-4c2a-911a-b17923a872fe)** — _n/a_ _(posted 2025-06-14)_
-* **[Data Scientist](https://jobs.ashbyhq.com/jerry/0880ac7f-b79f-419e-8d5d-539210ba4d5e)** — _n/a_ _(posted 2025-06-14)_
+* **[Associate, Business Operations](https://jobs.ashbyhq.com/jerry/af323cd5-c705-49e5-b107-700288b889cb)** — _n/a_ _(posted 2025-06-18)_
+* **[Data Scientist](https://jobs.ashbyhq.com/jerry/18b237fe-2657-4d7f-9c90-d86a3f5d0184)** — _n/a_ _(posted 2025-06-18)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ratwa3kr7uy5rlny0zky.webp" width="24" height="24" alt="Jobber logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Jobber](https://jobo.world/company/Jobber)
 
@@ -203,7 +202,6 @@ Browse a wide range of remote Business IntelligenceDeveloper positions available
 
 * **[Senior Data Engineer II](https://job-boards.greenhouse.io/life360/jobs/8028954002)** — _n/a_ _(posted 2025-06-07)_
 * **[Lead Data Analyst](https://job-boards.greenhouse.io/life360/jobs/8016850002)** — _n/a_ _(posted 2025-05-30)_
-* **[Sr. Manager, Finance Data Analytics](https://job-boards.greenhouse.io/life360/jobs/8007230002)** — _n/a_ _(posted 2025-05-22)_
 * **[Staff Data Engineer](https://job-boards.greenhouse.io/life360/jobs/7896457002)** — ¤166,500 – ¤245,000 USD _(posted 2025-03-30)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/bjxntapcwce90erhhj8b.webp" width="24" height="24" alt="Machinify logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Machinify](https://jobo.world/company/Machinify)
@@ -231,6 +229,14 @@ Browse a wide range of remote Business IntelligenceDeveloper positions available
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/icyvoy1xdkv6ptazxcqz.webp" width="24" height="24" alt="Motley Fool logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Motley Fool](https://jobo.world/company/Motley-Fool)
 
 * **[Head of Business Intelligence](https://boards.greenhouse.io/themotleyfool/jobs/4710046007)** — _n/a_ _(posted 2025-05-02)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/lhkqlmin9hu3z85qyabt.webp" width="24" height="24" alt="Mozilla logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Mozilla](https://jobo.world/company/Mozilla)
+
+* **[Business Intelligence Analyst](https://job-boards.greenhouse.io/mozilla/jobs/6981561)** — _n/a_ _(posted 2025-06-18)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/l4bo4rdk0efiqvvzos5y.webp" width="24" height="24" alt="Oura logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Oura](https://jobo.world/company/Oura)
+
+* **[Senior Business Intelligence Analyst](https://apply.workable.com/oura-health-ltd/j/F8CD7AC30B/)** — ¤203 – ¤203 USD _(posted 2025-06-17)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/jqluxvjjehdk8lnz0lrg.webp" width="24" height="24" alt="Platform Science logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Platform Science](https://jobo.world/company/Platform-Science)
 
@@ -264,11 +270,8 @@ Browse a wide range of remote Business IntelligenceDeveloper positions available
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ztchjewjetxet4seourr.webp" width="24" height="24" alt="Solace Health logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Solace Health](https://jobo.world/company/Solace-Health)
 
+* **[Python Analytics Engineer](https://jobs.ashbyhq.com/solace/9665efea-e06a-41de-9527-64cad5afb3cc)** — _n/a_ _(posted 2025-06-18)_
 * **[Python Data Engineer](https://jobs.ashbyhq.com/solace/f19207b3-5fad-4cd4-9a7e-5dd64fb78401)** — _n/a_ _(posted 2025-06-04)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/cxsedcd3pxlazf3wjihk.webp" width="24" height="24" alt="Sustainable Talent logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Sustainable Talent](https://jobo.world/company/SustainableTalent)
-
-* **[Business Operations Analyst](https://job-boards.greenhouse.io/sustainabletalent/jobs/4555740005)** — _n/a_ _(posted 2025-04-19)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/w4ks1qx6ryiurq7yzq6z.webp" width="24" height="24" alt="Swish Analytics logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Swish Analytics](https://jobo.world/company/SwishAnalytics)
 
@@ -296,4 +299,4 @@ Browse a wide range of remote Business IntelligenceDeveloper positions available
 * **[Solutions Analyst](https://job-boards.greenhouse.io/yipitdata/jobs/6862273)** — _n/a_ _(posted 2025-05-06)_
 
 ---
-_Updated automatically — 2025-06-18_
+_Updated automatically — 2025-06-19_

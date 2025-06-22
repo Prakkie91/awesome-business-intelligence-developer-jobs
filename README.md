@@ -187,8 +187,7 @@ Browse a wide range of remote Business IntelligenceDeveloper positions available
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/lu1fnjgrjwoa651dm7l9.webp" width="24" height="24" alt="Jerry logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Jerry](https://jobo.world/company/Jerry)
 
-* **[Associate, Business Operations](https://jobs.ashbyhq.com/jerry/af323cd5-c705-49e5-b107-700288b889cb)** — _n/a_ _(posted 2025-06-18)_
-* **[Data Scientist](https://jobs.ashbyhq.com/jerry/18b237fe-2657-4d7f-9c90-d86a3f5d0184)** — _n/a_ _(posted 2025-06-18)_
+* **[Data Scientist](https://jobs.ashbyhq.com/jerry/4d968ce8-0e83-4f85-8e50-b6128506d734)** — _n/a_ _(posted 2025-06-21)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ratwa3kr7uy5rlny0zky.webp" width="24" height="24" alt="Jobber logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Jobber](https://jobo.world/company/Jobber)
 
@@ -253,7 +252,7 @@ Browse a wide range of remote Business IntelligenceDeveloper positions available
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/bmyehdxrdv6eiphmivcv.webp" width="24" height="24" alt="Procore Technologies logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Procore Technologies](https://jobo.world/company/Procore-Technologies)
 
-* **[Analytics Implementation Specialist](https://jobs.smartrecruiters.com/ProcoreTechnologies/744000064838334-analytics-implementation-specialist?oga=true)** — _n/a_ _(posted 2025-06-12)_
+* **[Senior Data Engineer](https://jobs.smartrecruiters.com/ProcoreTechnologies/744000066351325-senior-data-engineer?oga=true)** — _n/a_ _(posted 2025-06-20)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/oupqrzklqnqeu7s2rlp7.webp" width="24" height="24" alt="Rad AI logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Rad AI](https://jobo.world/company/Rad-AI)
 
@@ -276,6 +275,7 @@ Browse a wide range of remote Business IntelligenceDeveloper positions available
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/w4ks1qx6ryiurq7yzq6z.webp" width="24" height="24" alt="Swish Analytics logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Swish Analytics](https://jobo.world/company/SwishAnalytics)
 
 * **[Product Engineer](https://job-boards.greenhouse.io/swishanalytics/jobs/4575654005)** — _n/a_ _(posted 2025-06-12)_
+* **[Staff Software Engineer](https://job-boards.greenhouse.io/swishanalytics/jobs/4441507005)** — ¤140,000 USD _(posted 2025-04-30)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/cbqseb7qanoppr64ffdp.webp" width="24" height="24" alt="Tailscale logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Tailscale](https://jobo.world/company/Tailscale)
 
@@ -302,4 +302,4 @@ Browse a wide range of remote Business IntelligenceDeveloper positions available
 * **[Solutions Analyst](https://job-boards.greenhouse.io/yipitdata/jobs/6862273)** — _n/a_ _(posted 2025-05-06)_
 
 ---
-_Updated automatically — 2025-06-21_
+_Updated automatically — 2025-06-22_

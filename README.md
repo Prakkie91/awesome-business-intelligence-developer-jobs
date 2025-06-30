@@ -78,6 +78,7 @@ Browse a wide range of remote Business IntelligenceDeveloper positions available
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/hzuavimik16xkwurk8st.webp" width="24" height="24" alt="Cribl logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Cribl](https://jobo.world/company/Cribl)
 
+* **[Sales Engineer, Southwest (Enterprise)](https://job-boards.greenhouse.io/cribl/jobs/5551848004)** — ¤110,000 – ¤182,000 USD _(posted 2025-06-29)_
 * **[Sales Engineer](https://job-boards.greenhouse.io/cribl/jobs/5571911004)** — ¤110,000 – ¤175,000 USD _(posted 2025-06-25)_
 * **[Sales Engineer](https://job-boards.greenhouse.io/cribl/jobs/5499020004)** — ¤110,000 – ¤175,000 USD _(posted 2025-06-10)_
 * **[Data Analytics Manager](https://job-boards.greenhouse.io/cribl/jobs/5534569004)** — _n/a_ _(posted 2025-05-07)_
@@ -176,7 +177,6 @@ Browse a wide range of remote Business IntelligenceDeveloper positions available
 
 * **[Principal, Business Intelligence - Data & Insights](https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Remote-Nationwide/Principal--Business-Intelligence---Data---Insights_R-380534-1)** — _n/a_ _(posted 2025-06-26)_
 * **[Senior Data Manager](https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Remote-Nationwide/Senior-Data-Manager_R-378873)** — _n/a_ _(posted 2025-06-25)_
-* **[Senior Data Engineer](https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Remote-Nationwide/Senior-Data-Engineer_R-378799)** — _n/a_ _(posted 2025-06-24)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/e0p2lkgyrsetxsdrpcp0.webp" width="24" height="24" alt="Interwell Health logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Interwell Health](https://jobo.world/company/Interwell-Health)
 
@@ -302,4 +302,4 @@ Browse a wide range of remote Business IntelligenceDeveloper positions available
 * **[Senior Analyst](https://jobs.lever.co/workwave/e0221d50-8660-48b9-91ce-f1e1f42442fb)** — _n/a_ _(posted 2025-06-04)_
 
 ---
-_Updated automatically — 2025-06-29_
+_Updated automatically — 2025-06-30_

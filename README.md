@@ -78,7 +78,6 @@ Browse a wide range of remote Business IntelligenceDeveloper positions available
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/hzuavimik16xkwurk8st.webp" width="24" height="24" alt="Cribl logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Cribl](https://jobo.world/company/Cribl)
 
-* **[Sales Engineer, Southwest (Enterprise)](https://job-boards.greenhouse.io/cribl/jobs/5551848004)** — ¤110,000 – ¤182,000 USD _(posted 2025-06-29)_
 * **[Sales Engineer](https://job-boards.greenhouse.io/cribl/jobs/5571911004)** — ¤110,000 – ¤175,000 USD _(posted 2025-06-25)_
 * **[Sales Engineer](https://job-boards.greenhouse.io/cribl/jobs/5499020004)** — ¤110,000 – ¤175,000 USD _(posted 2025-06-10)_
 * **[Data Analytics Manager](https://job-boards.greenhouse.io/cribl/jobs/5534569004)** — _n/a_ _(posted 2025-05-07)_
@@ -184,11 +183,15 @@ Browse a wide range of remote Business IntelligenceDeveloper positions available
 * **[Data Engineer](https://job-boards.greenhouse.io/interwellhealth/jobs/4749959008)** — _n/a_ _(posted 2025-06-07)_
 * **[Manager, Data Engineering](https://boards.greenhouse.io/interwellhealth/jobs/4614534008)** — _n/a_ _(posted 2025-04-05)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ccz9dhecdmrekaje96ee.webp" width="24" height="24" alt="iRhythm Technologies logo" style="vertical-align:middle"/>&nbsp;&nbsp;[iRhythm Technologies](https://jobo.world/company/iRhythm-Technologies)
+
+* **[Senior Research Data Engineer](https://irhythmtech.wd5.myworkdayjobs.com/irhythm/job/Remote---US/Senior-Research-Data-Engineer_JR231)** — _n/a_ _(posted 2025-06-02)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/lu1fnjgrjwoa651dm7l9.webp" width="24" height="24" alt="Jerry logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Jerry](https://jobo.world/company/Jerry)
 
-* **[Data Scientist](https://jobs.ashbyhq.com/jerry/0a646b72-4994-41f8-bcbd-4c52ae9d4623)** — _n/a_ _(posted 2025-06-28)_
-* **[Data Scientist](https://jobs.ashbyhq.com/jerry/6a1b26e1-8db4-4f25-97a7-a0408ef5ab7d)** — _n/a_ _(posted 2025-06-28)_
-* **[Data Scientist](https://jobs.ashbyhq.com/jerry/5df7e962-04a4-4284-bbd9-4c1f292a3511)** — _n/a_ _(posted 2025-06-28)_
+* **[Data Scientist](https://jobs.ashbyhq.com/jerry/65d8c5a5-22fe-43a3-bde6-d73bd4bc815b)** — _n/a_ _(posted 2025-07-01)_
+* **[Data Scientist](https://jobs.ashbyhq.com/jerry/7f9f696a-195e-420a-a9d8-73bbe864d0bc)** — _n/a_ _(posted 2025-07-01)_
+* **[Data Scientist](https://jobs.ashbyhq.com/jerry/d99fa559-ef90-43a0-88ac-accd48c89c34)** — _n/a_ _(posted 2025-07-01)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ratwa3kr7uy5rlny0zky.webp" width="24" height="24" alt="Jobber logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Jobber](https://jobo.world/company/Jobber)
 
@@ -302,4 +305,4 @@ Browse a wide range of remote Business IntelligenceDeveloper positions available
 * **[Senior Analyst](https://jobs.lever.co/workwave/e0221d50-8660-48b9-91ce-f1e1f42442fb)** — _n/a_ _(posted 2025-06-04)_
 
 ---
-_Updated automatically — 2025-07-01_
+_Updated automatically — 2025-07-02_

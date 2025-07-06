@@ -113,6 +113,7 @@ Browse a wide range of remote Business IntelligenceDeveloper positions available
 * **[Partner Development Manager, Databricks &amp; GCP](https://job-boards.greenhouse.io/dbtlabsinc/jobs/4581857005)** — _n/a_ _(posted 2025-07-02)_
 * **[Enterprise Sales Director (Chicago OR MI, OH, IND)](https://job-boards.greenhouse.io/dbtlabsinc/jobs/4573159005)** — _n/a_ _(posted 2025-06-06)_
 * **[Senior Software Engineer II](https://job-boards.greenhouse.io/dbtlabsinc/jobs/4565085005)** — _n/a_ _(posted 2025-06-05)_
+* **[Senior Software Engineer](https://job-boards.greenhouse.io/dbtlabsinc/jobs/4572855005)** — _n/a_ _(posted 2025-06-05)_
 * **[Staff Software Engineer](https://job-boards.greenhouse.io/dbtlabsinc/jobs/4572868005)** — _n/a_ _(posted 2025-06-05)_
 * **[Regional Director of Solutions Architect, Southeast](https://job-boards.greenhouse.io/dbtlabsinc/jobs/4569152005)** — _n/a_ _(posted 2025-05-24)_
 * **[Enterprise Sales Director (SoCal)](https://job-boards.greenhouse.io/dbtlabsinc/jobs/4567809005)** — _n/a_ _(posted 2025-05-22)_
@@ -136,10 +137,6 @@ Browse a wide range of remote Business IntelligenceDeveloper positions available
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/fitj6r32co0te54kphau.webp" width="24" height="24" alt="EnergyHub logo" style="vertical-align:middle"/>&nbsp;&nbsp;[EnergyHub](https://jobo.world/company/EnergyHub)
 
 * **[Senior Energy Data Analyst](https://boards.greenhouse.io/energyhub/jobs/7930636002)** — _n/a_ _(posted 2025-04-03)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/r3lbc66nbljutjcnwp4d.webp" width="24" height="24" alt="Energy Solutions logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Energy Solutions](https://jobo.world/company/EnergySolutions)
-
-* **[Senior Data Engineer (Remote - US)](https://job-boards.greenhouse.io/energysolutions/jobs/4767812007)** — _n/a_ _(posted 2025-06-24)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/wpkaroszpgkzglupy3hh.webp" width="24" height="24" alt="EvolutionIQ logo" style="vertical-align:middle"/>&nbsp;&nbsp;[EvolutionIQ](https://jobo.world/company/EvolutionIQ)
 
@@ -308,4 +305,4 @@ Browse a wide range of remote Business IntelligenceDeveloper positions available
 * **[Senior Analyst](https://jobs.lever.co/workwave/e0221d50-8660-48b9-91ce-f1e1f42442fb)** — _n/a_ _(posted 2025-06-04)_
 
 ---
-_Updated automatically — 2025-07-05_
+_Updated automatically — 2025-07-06_

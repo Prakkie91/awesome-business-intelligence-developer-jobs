@@ -26,6 +26,10 @@ Browse a wide range of remote Business IntelligenceDeveloper positions available
 
 * **[Senior Director of Business Intelligence and Data Engineering](https://boards.greenhouse.io/alma/jobs/7948762002)** — _n/a_ _(posted 2025-04-09)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/dopqydjbowgsulf9ebb2.webp" width="24" height="24" alt="Altera logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Altera](https://jobo.world/company/Altera)
+
+* **[Sales Engineer](https://alteryx.wd5.myworkdayjobs.com/alteryxcareers/job/New-York-USA---Remote/Sales-Engineer_R11030)** — _n/a_ _(posted 2025-05-13)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/arqrlkg67jupy2stbahu.webp" width="24" height="24" alt="Altium logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Altium](https://jobo.world/company/Altium)
 
 * **[Software Engineer](https://jobs.ashbyhq.com/allium/d5c0f988-67ac-4388-bd54-1970c8cc17f5)** — _n/a_ _(posted 2025-03-12)_
@@ -186,7 +190,6 @@ Browse a wide range of remote Business IntelligenceDeveloper positions available
 * **[Senior Data Visualization Engineer](https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Remote-Nationwide/Senior-Data-Visualization-Engineer_R-380934)** — _n/a_ _(posted 2025-07-03)_
 * **[Business Intelligence Engineer II](https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Remote-Nationwide/Business-Intelligence-Engineer-II_R-381318)** — _n/a_ _(posted 2025-07-02)_
 * **[Senior Data Engineer](https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Remote-Nationwide/Senior-Data-Engineer_R-380889)** — _n/a_ _(posted 2025-07-02)_
-* **[Senior Business Intelligence Engineer](https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Remote-Nationwide/Senior-Business-Intelligence-Engineer_R-379748)** — _n/a_ _(posted 2025-07-01)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/e0p2lkgyrsetxsdrpcp0.webp" width="24" height="24" alt="Interwell Health logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Interwell Health](https://jobo.world/company/Interwell-Health)
 
@@ -259,6 +262,10 @@ Browse a wide range of remote Business IntelligenceDeveloper positions available
 
 * **[Business Development Director](https://seic.wd1.myworkdayjobs.com/sei_global_services/job/USA---Remote---KS/Business-Development-Director_R0031668)** — _n/a_ _(posted 2025-04-15)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/g9djr8f6me3agtojugdq.webp" width="24" height="24" alt="Sigma Computing logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Sigma Computing](https://jobo.world/company/Sigma-Computing)
+
+* **[Customer Success Architect](https://job-boards.greenhouse.io/sigmacomputing/jobs/6310122003)** — ¤110,000 – ¤145,000 USD _(posted 2025-03-30)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/vrknusgpikuocehlycjt.webp" width="24" height="24" alt="Simon Data logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Simon Data](https://jobo.world/company/Simon-Data)
 
 * **[Sales Engineer](https://jobs.ashbyhq.com/simondata/3c60b931-c2e0-4868-a3ff-ecc9ec38e85c)** — ¤100,000 – ¤125,000 USD _(posted 2025-06-24)_
@@ -266,10 +273,6 @@ Browse a wide range of remote Business IntelligenceDeveloper positions available
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ikyhgmloca3luk71epu4.webp" width="24" height="24" alt="SmartAsset logo" style="vertical-align:middle"/>&nbsp;&nbsp;[SmartAsset](https://jobo.world/company/SmartAsset)
 
 * **[Senior Data Engineer](https://job-boards.greenhouse.io/smartasset/jobs/8026903002)** — _n/a_ _(posted 2025-06-27)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/omuszbxxi40zo5a3n10x.webp" width="24" height="24" alt="Snowflake logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Snowflake](https://jobo.world/company/Snowflake)
-
-* **[Principal Solution Innovation Architect, Analytics](https://jobs.ashbyhq.com/snowflake/5b474f93-1422-44d8-8280-86835579576e)** — ¤179,000 – ¤279,400 USD _(posted 2025-07-03)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ztchjewjetxet4seourr.webp" width="24" height="24" alt="Solace Health logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Solace Health](https://jobo.world/company/Solace-Health)
 
@@ -305,4 +308,4 @@ Browse a wide range of remote Business IntelligenceDeveloper positions available
 * **[Senior Analyst](https://jobs.lever.co/workwave/e0221d50-8660-48b9-91ce-f1e1f42442fb)** — _n/a_ _(posted 2025-06-04)_
 
 ---
-_Updated automatically — 2025-07-07_
+_Updated automatically — 2025-07-08_

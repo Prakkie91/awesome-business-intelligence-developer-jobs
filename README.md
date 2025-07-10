@@ -308,4 +308,4 @@ Browse a wide range of remote Business IntelligenceDeveloper positions available
 * **[Account Executive, Embedded Analytics](https://job-boards.greenhouse.io/visiersolutionsinc/jobs/4449055006)** — ¤60,000 – ¤120,000 USD _(posted 2025-05-15)_
 
 ---
-_Updated automatically — 2025-07-09_
+_Updated automatically — 2025-07-10_

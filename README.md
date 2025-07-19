@@ -61,10 +61,6 @@ Browse a wide range of remote Business IntelligenceDeveloper positions available
 
 * **[Sr. Business Intelligence Engineer](https://cars.wd12.myworkdayjobs.com/cars/job/United-States-Remote/Sr-Business-Intelligence-Engineer_JR10641)** — _n/a_ _(posted 2025-07-02)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ip5pf6ew5hvfz7juafjm.webp" width="24" height="24" alt="Clerk logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Clerk](https://jobo.world/company/Clerk)
-
-* **[Developer Relations Engineer](https://jobs.ashbyhq.com/clerk/5e899b61-1dcc-4c8e-83af-5e67d8ec1387)** — _n/a_ _(posted 2025-05-06)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/zcrsxaub94nntp5gtnjk.webp" width="24" height="24" alt="Clickhouse logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Clickhouse](https://jobo.world/company/Clickhouse)
 
 * **[Go to Market Systems Engineer (Salesforce Developer)](https://job-boards.greenhouse.io/clickhouse/jobs/5570267004)** — _n/a_ _(posted 2025-06-24)_
@@ -124,11 +120,6 @@ Browse a wide range of remote Business IntelligenceDeveloper positions available
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/uy3ifw1k0xtbsujpqhns.webp" width="24" height="24" alt="Dick's Sporting Goods logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Dick's Sporting Goods](https://jobo.world/company/Dicks-Sporting-Goods)
 
 * **[Lead Software Engineer  - Omni Tools (REMOTE)](https://dickssportinggoods.wd1.myworkdayjobs.com/dsg/job/Remote---US/Lead-Software-Engineer----Omni-Tools--REMOTE-_202508443)** — _n/a_ _(posted 2025-07-15)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/vcsw3ojmqjyiyuteloxu.webp" width="24" height="24" alt="DraftKings logo" style="vertical-align:middle"/>&nbsp;&nbsp;[DraftKings](https://jobo.world/company/DraftKings)
-
-* **[Senior Lead Software Engineer, AI](https://draftkings.wd1.myworkdayjobs.com/draftkings/job/Remote---US/Senior-Lead-Software-Engineer--AI_JR11969-1)** — _n/a_ _(posted 2025-07-14)_
-* **[Lead Software Engineer, AI](https://draftkings.wd1.myworkdayjobs.com/draftkings/job/Remote---US/Lead-Software-Engineer--AI-Engineering--Developer-Tools-_JR11972-1)** — _n/a_ _(posted 2025-07-14)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/wpkaroszpgkzglupy3hh.webp" width="24" height="24" alt="EvolutionIQ logo" style="vertical-align:middle"/>&nbsp;&nbsp;[EvolutionIQ](https://jobo.world/company/EvolutionIQ)
 
@@ -205,6 +196,10 @@ Browse a wide range of remote Business IntelligenceDeveloper positions available
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ipqjggsa4adm24tegtgj.webp" width="24" height="24" alt="MyFitnessPal logo" style="vertical-align:middle"/>&nbsp;&nbsp;[MyFitnessPal](https://jobo.world/company/MyFitnessPal)
 
 * **[BI Engineer](https://job-boards.greenhouse.io/myfitnesspal/jobs/6996724)** — _n/a_ _(posted 2025-06-19)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/hst5omo3snsic12lewxv.webp" width="24" height="24" alt="NerdWallet logo" style="vertical-align:middle"/>&nbsp;&nbsp;[NerdWallet](https://jobo.world/company/NerdWallet)
+
+* **[Senior Intelligent Automation Engineer (Security)](https://jobs.ashbyhq.com/nerdwallet/360dba83-500a-4eda-a0df-9e7949d760a5)** — ¤136,000 – ¤252,000 USD _(posted 2025-07-18)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/lhi0btjeoioa7qgotnxx.webp" width="24" height="24" alt="Nutrafol logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Nutrafol](https://jobo.world/company/Nutrafol)
 
@@ -296,6 +291,10 @@ Browse a wide range of remote Business IntelligenceDeveloper positions available
 
 * **[Senior Security Research Engineer](https://job-boards.greenhouse.io/spycloud/jobs/6608205003)** — _n/a_ _(posted 2025-06-18)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qzska8ypqmqsevnfvhod.webp" width="24" height="24" alt="Standard Bots logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Standard Bots](https://jobo.world/company/Standard-Bots)
+
+* **[Senior Software Engineer, Infrastructure & Developer Tooling](https://jobs.ashbyhq.com/standardbots/ce8ae0e8-21b2-4896-b538-ecea5794802d)** — ¤170,000 – ¤220,000 USD _(posted 2025-05-30)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/tkzoeuprdcsvlmiqsqk0.webp" width="24" height="24" alt="Substack logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Substack](https://jobo.world/company/Substack)
 
 * **[Artificial Intelligence (AI) Engineers](https://apply.workable.com/getsubstance/j/587184A15D/)** — _n/a_ _(posted 2025-01-21)_
@@ -309,6 +308,10 @@ Browse a wide range of remote Business IntelligenceDeveloper positions available
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/fgwkzmyi2yqa4207echj.webp" width="24" height="24" alt="Thermo Fisher Scientific logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Thermo Fisher Scientific](https://jobo.world/company/Thermo-Fisher-Scientific)
 
 * **[Senior Business Insights Developer](https://thermofisher.wd5.myworkdayjobs.com/thermofishercareers/job/Remote-Massachusetts-USA/Senior-Business-Insights-Developer_R-01323297)** — _n/a_ _(posted 2025-07-09)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/y3jvphat7o611nqzowe0.webp" width="24" height="24" alt="Thumbtack logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Thumbtack](https://jobo.world/company/Thumbtack)
+
+* **[Senior Software Engineer, Developer Experience](https://job-boards.greenhouse.io/thumbtack/jobs/7082064)** — _n/a_ _(posted 2025-07-18)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/whhxmoi8vbfjbrge1cdw.webp" width="24" height="24" alt="Timescale logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Timescale](https://jobo.world/company/Timescale)
 
@@ -341,4 +344,4 @@ Browse a wide range of remote Business IntelligenceDeveloper positions available
 * **[Senior Software Engineer, Developer Experience](https://jobs.ashbyhq.com/zip/e52be066-8281-4869-8e63-ef0cd63051fd)** — _n/a_ _(posted 2025-04-12)_
 
 ---
-_Updated automatically — 2025-07-18_
+_Updated automatically — 2025-07-19_

@@ -158,10 +158,13 @@ Browse a wide range of remote Business IntelligenceDeveloper positions available
 
 * **[Senior Data Analyst](https://job-boards.greenhouse.io/headway/jobs/5007151004)** — _n/a_ _(posted 2025-04-26)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/zcr2yjsivoviphozj9y6.webp" width="24" height="24" alt="Humana logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Humana](https://jobo.world/company/Humana)
+
+* **[Business Intelligence Engineer II](https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Remote-Nationwide/Business-Intelligence-Engineer-II_R-383094)** — _n/a_ _(posted 2025-07-18)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/tbsfjuwuyescyatdwvwq.webp" width="24" height="24" alt="Huntress logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Huntress](https://jobo.world/company/Huntress)
 
 * **[Vice President, Data and Business Intelligence](https://job-boards.greenhouse.io/huntress/jobs/6653573003)** — ¤275,000 – ¤330,000 USD _(posted 2025-07-19)_
-* **[Senior Software Engineer - Business Systems (Ruby/Rails)](https://job-boards.greenhouse.io/huntress/jobs/6510639003)** — ¤160,000 – ¤190,000 USD _(posted 2025-06-11)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/n2jgwbgwyiecef7h3tzy.webp" width="24" height="24" alt="Kraken logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Kraken](https://jobo.world/company/Kraken)
 
@@ -341,4 +344,4 @@ Browse a wide range of remote Business IntelligenceDeveloper positions available
 * **[Senior Software Engineer, Developer Experience](https://jobs.ashbyhq.com/zip/e52be066-8281-4869-8e63-ef0cd63051fd)** — _n/a_ _(posted 2025-04-12)_
 
 ---
-_Updated automatically — 2025-07-20_
+_Updated automatically — 2025-07-22_

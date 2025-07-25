@@ -148,13 +148,10 @@ Browse a wide range of remote Business IntelligenceDeveloper positions available
 * **[Software Engineer, AI](https://jobs.ashbyhq.com/hackerone/5128993f-1c5b-4ae1-96d3-ee92dae5bb90)** — ¤150,000 – ¤220,000 USD _(posted 2025-07-11)_
 * **[Senior Software Engineer, AI](https://jobs.ashbyhq.com/hackerone/1a9d0d89-58ac-4445-9645-d27422f797e0)** — ¤147,000 – ¤184,000 USD _(posted 2025-05-23)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qhjqtpblwcorcocaldpz.webp" width="24" height="24" alt="Headway logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Headway](https://jobo.world/company/Headway)
-
-* **[Senior Data Analyst](https://job-boards.greenhouse.io/headway/jobs/5007151004)** — _n/a_ _(posted 2025-04-26)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/zcr2yjsivoviphozj9y6.webp" width="24" height="24" alt="Humana logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Humana](https://jobo.world/company/Humana)
 
 * **[Business Intelligence Engineer II](https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Remote-Nationwide/Business-Intelligence-Engineer-II_R-383094)** — _n/a_ _(posted 2025-07-18)_
+* **[Medicaid Business Intelligence Engineer](https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Remote-Nationwide/Medicaid-Business-Intelligence-Engineer_R-381974-1)** — _n/a_ _(posted 2025-07-11)_
 * **[Senior Professional Business Intelligence Engineer](https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Remote-Nationwide/Senior-Professional-Business-Intelligence-Engineer_R-375871-1)** — _n/a_ _(posted 2025-05-29)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/tbsfjuwuyescyatdwvwq.webp" width="24" height="24" alt="Huntress logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Huntress](https://jobo.world/company/Huntress)
@@ -350,4 +347,4 @@ Browse a wide range of remote Business IntelligenceDeveloper positions available
 * **[Senior Software Engineer, Developer Experience](https://jobs.ashbyhq.com/zip/e52be066-8281-4869-8e63-ef0cd63051fd)** — _n/a_ _(posted 2025-04-12)_
 
 ---
-_Updated automatically — 2025-07-24_
+_Updated automatically — 2025-07-25_

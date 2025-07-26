@@ -22,10 +22,6 @@ Browse a wide range of remote Business IntelligenceDeveloper positions available
 
 * **[Developer Support Engineer](https://job-boards.greenhouse.io/airtable/jobs/7940694002)** — _n/a_ _(posted 2025-06-18)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/rhksuz0w6frlhe8x8d9x.webp" width="24" height="24" alt="Aiwyn logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Aiwyn](https://jobo.world/company/Aiwyn)
-
-* **[Backend Engineer](https://jobs.lever.co/aiwyn/72218db8-972b-452c-bfc4-b8b3884a0b19)** — _n/a_ _(posted 2025-05-27)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/dopqydjbowgsulf9ebb2.webp" width="24" height="24" alt="Altera logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Altera](https://jobo.world/company/Altera)
 
 * **[Sales Engineer](https://alteryx.wd5.myworkdayjobs.com/alteryxcareers/job/Texas-USA---Remote/Sales-Engineer_R11075)** — _n/a_ _(posted 2025-06-03)_
@@ -34,14 +30,6 @@ Browse a wide range of remote Business IntelligenceDeveloper positions available
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/kcq8nfjtqwqarugh1srl.webp" width="24" height="24" alt="Angel Studios logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Angel Studios](https://jobo.world/company/Angel-Studios)
 
 * **[Senior Software Engineer (Roku Developer)](https://jobs.lever.co/angel/577a9b1a-489d-4ea9-b844-01839b3225ba)** — _n/a_ _(posted 2025-06-30)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/gs0xapk3pz8ixeoktttn.webp" width="24" height="24" alt="April logo" style="vertical-align:middle"/>&nbsp;&nbsp;[April](https://jobo.world/company/April)
-
-* **[Tax Software Engineer](https://job-boards.greenhouse.io/april/jobs/5583313004)** — ¤95,000 – ¤110,000 USD _(posted 2025-07-08)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ggceq0tw5pnlncrgxzu5.webp" width="24" height="24" alt="Arine logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Arine](https://jobo.world/company/Arine)
-
-* **[Business Intelligence Developer](https://job-boards.greenhouse.io/arine/jobs/5458775004)** — _n/a_ _(posted 2025-06-07)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/fhsbwfck9brhwntjbb9f.webp" width="24" height="24" alt="Assembled logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Assembled](https://jobo.world/company/Assembled)
 
@@ -55,9 +43,9 @@ Browse a wide range of remote Business IntelligenceDeveloper positions available
 
 * **[Business Intelligence (BI) Analyst](https://jobs.lever.co/authentic8/88c32c0d-9bea-4d58-afdf-4b218739a6c4)** — _n/a_ _(posted 2025-04-16)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/artpcuu1rb7wo1ernbhe.webp" width="24" height="24" alt="Barbaricum logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Barbaricum](https://jobo.world/company/Barbaricum)
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/gpfc82azslc17w3xudzi.webp" width="24" height="24" alt="Bestow logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Bestow](https://jobo.world/company/Bestow)
 
-* **[Artificial Intelligence Machine Learning (AI/ML) Cloud Engineer](https://boards.greenhouse.io/barbaricum/jobs/4552293008)** — _n/a_ _(posted 2025-03-14)_
+* **[Data Analyst](https://jobs.ashbyhq.com/bestow/8b30bb2a-b012-4a07-a2d7-0b87604b0283)** — ¤85,000 – ¤105,000 USD _(posted 2025-07-24)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/o3acj3q6bo0xyuhtz8zv.webp" width="24" height="24" alt="Cars Commerce logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Cars Commerce](https://jobo.world/company/Cars-Commerce)
 
@@ -75,12 +63,10 @@ Browse a wide range of remote Business IntelligenceDeveloper positions available
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/xauolcu0ycnihp0pf12l.webp" width="24" height="24" alt="Coder logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Coder](https://jobo.world/company/Coder)
 
 * **[Senior Software Engineer (AI Tools)](https://jobs.ashbyhq.com/coder/99358b53-e235-421e-8315-4ed73cbd1f03)** — ¤127,000 – ¤218,000 USD _(posted 2025-06-24)_
-* **[Product Operations Engineer](https://jobs.ashbyhq.com/coder/a21249ca-f8c1-4123-a68f-23e309bc950e)** — ¤113,000 – ¤194,000 USD _(posted 2025-05-07)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ynjb3ziie3hbmr1c8ehv.webp" width="24" height="24" alt="Cognizant logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Cognizant](https://jobo.world/company/Cognizant)
 
 * **[Workday Financials Reporting Principal Consultant](https://collaborative.wd1.myworkdayjobs.com/allopenings/job/USA---United-States---Remote/Workday-Financials-Reporting-Principal-Consultant_JR-15349)** — ¤106,171 – ¤159,257 USD _(posted 2025-03-06)_
-* **[Workday Financials Reporting Principal Consultant](https://collaborative.wd1.myworkdayjobs.com/collaborative_solutions/job/USA---United-States---Remote/Workday-Financials-Reporting-Principal-Consultant_JR-15349-1)** — ¤106,171 – ¤159,257 USD _(posted 2025-03-06)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/e0dp1h5kngjq2sscqpvi.webp" width="24" height="24" alt="Color logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Color](https://jobo.world/company/Color)
 
@@ -92,6 +78,7 @@ Browse a wide range of remote Business IntelligenceDeveloper positions available
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qogfqwtschjchtjlzyr3.webp" width="24" height="24" alt="Crowdstrike logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Crowdstrike](https://jobo.world/company/Crowdstrike)
 
+* **[Sr. MacOS Sensor Engineer (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-MacOS-Sensor-Engineer--Remote-_R24014)** — _n/a_ _(posted 2025-07-22)_
 * **[Sr. Business Intelligence Analyst, Ops FP&A (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-TN/Sr-Business-Intelligence-Analyst--Ops-FP-A--Remote-_R23944)** — _n/a_ _(posted 2025-07-15)_
 * **[Sr. II Cloud Engineer, Exposure Management (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-II-Cloud-Engineer--Exposure-Management--Remote-_R23792)** — _n/a_ _(posted 2025-07-11)_
 * **[Security Researcher - Malware Reverse Engineer (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Security-Researcher---Malware-Reverse-Engineer--Remote-_R23797)** — _n/a_ _(posted 2025-07-10)_
@@ -109,17 +96,22 @@ Browse a wide range of remote Business IntelligenceDeveloper positions available
 
 * **[Developer Relations Engineer](https://job-boards.greenhouse.io/demandbase/jobs/6661428)** — ¤93,000 – ¤139,000 USD _(posted 2025-04-26)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/kmkx39mgdprsyv38qfhb.webp" width="24" height="24" alt="Devoted Health logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Devoted Health](https://jobo.world/company/Devoted-Health)
+
+* **[Principal Business Intelligence Analyst - Medication Adherence](https://devoted.wd1.myworkdayjobs.com/devoted/job/Remote-USA/Principal-Business-Intelligence-Analyst---Medication-Adherence_R2471)** — _n/a_ _(posted 2025-07-23)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/uy3ifw1k0xtbsujpqhns.webp" width="24" height="24" alt="Dick's Sporting Goods logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Dick's Sporting Goods](https://jobo.world/company/Dicks-Sporting-Goods)
 
 * **[Lead Software Engineer  - Omni Tools (REMOTE)](https://dickssportinggoods.wd1.myworkdayjobs.com/dsg/job/Remote---US/Lead-Software-Engineer----Omni-Tools--REMOTE-_202508443)** — _n/a_ _(posted 2025-07-15)_
+* **[Lead Data Analyst (REMOTE)](https://dickssportinggoods.wd1.myworkdayjobs.com/dsg/job/Remote---US/Lead-Data-Analyst--REMOTE-_202509208)** — _n/a_ _(posted 2025-06-18)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/wpkaroszpgkzglupy3hh.webp" width="24" height="24" alt="EvolutionIQ logo" style="vertical-align:middle"/>&nbsp;&nbsp;[EvolutionIQ](https://jobo.world/company/EvolutionIQ)
 
 * **[Staff Software Engineer (Insurance SaaS)](https://job-boards.greenhouse.io/evolutioniq/jobs/5437665004)** — _n/a_ _(posted 2025-03-30)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/plmnavz1aguhmpss5srl.webp" width="24" height="24" alt="Facet logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Facet](https://jobo.world/company/Facet)
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/nerakkfib4vn5co7bmr3.webp" width="24" height="24" alt="Expedia logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Expedia](https://jobo.world/company/Expedia)
 
-* **[Lead Data Analyst - Remote](https://apply.workable.com/facetwealth/j/8C4C9431BC/)** — ¤175,000 USD _(posted 2024-12-09)_
+* **[Data Engineering Analyst, Remote](https://jobs.smartrecruiters.com/Experian/744000072504175-data-engineering-analyst-remote)** — _n/a_ _(posted 2025-07-24)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ij1kvdwkn0w9aenlfz9t.webp" width="24" height="24" alt="Fieldguide logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Fieldguide](https://jobo.world/company/Fieldguide)
 
@@ -137,6 +129,10 @@ Browse a wide range of remote Business IntelligenceDeveloper positions available
 
 * **[Lead/Senior Data Analyst](https://jobs.ashbyhq.com%2Fforward%2520financing%2F2c03e9b2-892e-4614-80d4-0078225c9bae)** — _n/a_ _(posted 2025-07-22)_
 * **[Senior Analytics Engineer](https://jobs.ashbyhq.com%2Fforward%2520financing%2F7429fff5-f5e8-414c-a7df-7f7be2df8b38)** — _n/a_ _(posted 2025-07-19)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/cx1jxbij2fiwfn1atfex.webp" width="24" height="24" alt="GitLab logo" style="vertical-align:middle"/>&nbsp;&nbsp;[GitLab](https://jobo.world/company/GitLab)
+
+* **[Senior Analytics Engineer](https://job-boards.greenhouse.io/gitlab/jobs/8054330002)** — _n/a_ _(posted 2025-07-25)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/lckoe8u549c4uyed6ahu.webp" width="24" height="24" alt="Grow Therapy logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Grow Therapy](https://jobo.world/company/Grow-Therapy)
 
@@ -157,6 +153,14 @@ Browse a wide range of remote Business IntelligenceDeveloper positions available
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/tbsfjuwuyescyatdwvwq.webp" width="24" height="24" alt="Huntress logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Huntress](https://jobo.world/company/Huntress)
 
 * **[Vice President, Data and Business Intelligence](https://job-boards.greenhouse.io/huntress/jobs/6653573003)** — ¤275,000 – ¤330,000 USD _(posted 2025-07-19)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/zfluqx5dzqpnka4ukc4n.webp" width="24" height="24" alt="Imagine Pediatrics logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Imagine Pediatrics](https://jobo.world/company/Imagine-Pediatrics)
+
+* **[Senior Business Intelligence Analyst](https://job-boards.greenhouse.io/imaginepediatrics/jobs/4582358005)** — _n/a_ _(posted 2025-07-24)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/jreiehb6pj49uiatllvw.webp" width="24" height="24" alt="Juniper Square logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Juniper Square](https://jobo.world/company/JuniperSquare)
+
+* **[Data Product Services Manager](https://jobs.ashbyhq.com/junipersquare/cee70daa-9c5a-4d62-8e1a-290aace5c801)** — _n/a_ _(posted 2025-07-25)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/n2jgwbgwyiecef7h3tzy.webp" width="24" height="24" alt="Kraken logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Kraken](https://jobo.world/company/Kraken)
 
@@ -295,10 +299,6 @@ Browse a wide range of remote Business IntelligenceDeveloper positions available
 
 * **[Account Executive, Majors, Retail](https://jobs.ashbyhq.com/snowflake/23682579-719d-4b18-9b6c-05a69e3975d4)** — ¤157,500 – ¤175,000 USD _(posted 2025-07-17)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/msxoxo4ksiqqz5qsape7.webp" width="24" height="24" alt="SpyCloud logo" style="vertical-align:middle"/>&nbsp;&nbsp;[SpyCloud](https://jobo.world/company/SpyCloud)
-
-* **[Senior Security Research Engineer](https://job-boards.greenhouse.io/spycloud/jobs/6608205003)** — _n/a_ _(posted 2025-06-18)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/tkzoeuprdcsvlmiqsqk0.webp" width="24" height="24" alt="Substack logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Substack](https://jobo.world/company/Substack)
 
 * **[Artificial Intelligence (AI) Engineers](https://apply.workable.com/getsubstance/j/587184A15D/)** — _n/a_ _(posted 2025-01-21)_
@@ -324,7 +324,6 @@ Browse a wide range of remote Business IntelligenceDeveloper positions available
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ygnclnukk5vq4h7jcssi.webp" width="24" height="24" alt="TrueML logo" style="vertical-align:middle"/>&nbsp;&nbsp;[TrueML](https://jobo.world/company/TrueML)
 
 * **[Business Operations &amp; AI Strategist](https://jobs.lever.co/trueml/8295972c-8959-4038-bbda-529c76d17be3)** — _n/a_ _(posted 2025-06-27)_
-* **[Business Operations &amp; AI Strategist](https://jobs.lever.co/trueml/367895dc-76f0-42b4-ac57-3a7ae5413666)** — _n/a_ _(posted 2025-06-27)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/vxd7unmtbvc48khifx89.webp" width="24" height="24" alt="UiPath logo" style="vertical-align:middle"/>&nbsp;&nbsp;[UiPath](https://jobo.world/company/UiPath)
 
@@ -346,5 +345,9 @@ Browse a wide range of remote Business IntelligenceDeveloper positions available
 
 * **[Senior Software Engineer, Developer Experience](https://jobs.ashbyhq.com/zip/e52be066-8281-4869-8e63-ef0cd63051fd)** — _n/a_ _(posted 2025-04-12)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qbqeqn0hs7eje07mwkxh.webp" width="24" height="24" alt="Zipline logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Zipline](https://jobo.world/company/Zipline)
+
+* **[Data Analyst](https://apply.workable.com/zipliens/j/4C72BAD16B)** — _n/a_ _(posted 2025-07-24)_
+
 ---
-_Updated automatically — 2025-07-25_
+_Updated automatically — 2025-07-26_

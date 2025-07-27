@@ -35,10 +35,6 @@ Browse a wide range of remote Business IntelligenceDeveloper positions available
 
 * **[Software Engineer - AI Agents](https://jobs.ashbyhq.com/assembledhq/fd093752-475b-48d1-92de-2683b04608cb)** — ¤120,000 – ¤270,000 USD _(posted 2025-05-30)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/gs61rxdb5anhhiq0hy2b.webp" width="24" height="24" alt="AuditBoard logo" style="vertical-align:middle"/>&nbsp;&nbsp;[AuditBoard](https://jobo.world/company/AuditBoard)
-
-* **[Competitive Intelligence Manager (Remote)](https://jobs.ashbyhq.com/auditboard/ecadcd66-47ab-422c-a837-22a83944c5d3)** — ¤128,000 – ¤192,000 USD _(posted 2025-06-04)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/cstaejbxn8uzfnov24zv.webp" width="24" height="24" alt="Authentic8 logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Authentic8](https://jobo.world/company/Authentic8)
 
 * **[Business Intelligence (BI) Analyst](https://jobs.lever.co/authentic8/88c32c0d-9bea-4d58-afdf-4b218739a6c4)** — _n/a_ _(posted 2025-04-16)_
@@ -162,6 +158,10 @@ Browse a wide range of remote Business IntelligenceDeveloper positions available
 
 * **[Data Product Services Manager](https://jobs.ashbyhq.com/junipersquare/cee70daa-9c5a-4d62-8e1a-290aace5c801)** — _n/a_ _(posted 2025-07-25)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/fyk8fmlauq3eczmej348.webp" width="24" height="24" alt="Khan Academy logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Khan Academy](https://jobo.world/company/Khan-Academy)
+
+* **[Sr. Fullstack Engineer I, Districts Platform (International) (24 months fixed-term)](https://job-boards.greenhouse.io/khanacademy/jobs/7077660)** — _n/a_ _(posted 2025-07-26)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/n2jgwbgwyiecef7h3tzy.webp" width="24" height="24" alt="Kraken logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Kraken](https://jobo.world/company/Kraken)
 
 * **[Senior Data Analyst - Compliance](https://jobs.ashbyhq.com/kraken.com/08f57747-7caa-4f4d-920e-2cbfc0f5974f)** — ¤127,000 – ¤203,000 USD _(posted 2025-06-28)_
@@ -224,10 +224,6 @@ Browse a wide range of remote Business IntelligenceDeveloper positions available
 
 * **[Fullstack Engineer - Fortify](https://jobs.ashbyhq.com/pear/1bf7fd8a-a787-4325-8b65-7dcf5dc159e4)** — ¤125,000 – ¤155,000 USD _(posted 2025-05-01)_
 * **[Chief of Staff/Business Operations - Matter Intelligence](https://jobs.ashbyhq.com/pear/bddb5261-0b26-4dfc-914b-55641e68a8d5)** — _n/a_ _(posted 2025-03-12)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/eh6ujvleqqlksv3spdzl.webp" width="24" height="24" alt="Plotly logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Plotly](https://jobo.world/company/Plotly)
-
-* **[Senior Full Stack Software Engineer- AI](https://job-boards.greenhouse.io/plotly/jobs/8041949002)** — _n/a_ _(posted 2025-06-19)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/gqd0nltisodu2kmply1r.webp" width="24" height="24" alt="Podium logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Podium](https://jobo.world/company/Podium)
 
@@ -299,6 +295,10 @@ Browse a wide range of remote Business IntelligenceDeveloper positions available
 
 * **[Account Executive, Majors, Retail](https://jobs.ashbyhq.com/snowflake/23682579-719d-4b18-9b6c-05a69e3975d4)** — ¤157,500 – ¤175,000 USD _(posted 2025-07-17)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/msxoxo4ksiqqz5qsape7.webp" width="24" height="24" alt="SpyCloud logo" style="vertical-align:middle"/>&nbsp;&nbsp;[SpyCloud](https://jobo.world/company/SpyCloud)
+
+* **[Senior Security Research Engineer](https://job-boards.greenhouse.io/spycloud/jobs/6608205003)** — _n/a_ _(posted 2025-06-18)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/tkzoeuprdcsvlmiqsqk0.webp" width="24" height="24" alt="Substack logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Substack](https://jobo.world/company/Substack)
 
 * **[Artificial Intelligence (AI) Engineers](https://apply.workable.com/getsubstance/j/587184A15D/)** — _n/a_ _(posted 2025-01-21)_
@@ -350,4 +350,4 @@ Browse a wide range of remote Business IntelligenceDeveloper positions available
 * **[Data Analyst](https://apply.workable.com/zipliens/j/4C72BAD16B)** — _n/a_ _(posted 2025-07-24)_
 
 ---
-_Updated automatically — 2025-07-26_
+_Updated automatically — 2025-07-27_
